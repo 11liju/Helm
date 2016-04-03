@@ -3,10 +3,7 @@
 
 帮助您管理hosts文件，在不同的开发环境中切换自如
 
-
-![helm3](https://cloud.githubusercontent.com/assets/1193966/14232397/48892f5e-f9dd-11e5-95b8-eb775e2621bc.jpg)
-
-![helm-main](https://cloud.githubusercontent.com/assets/1193966/14232361/c65d9f3e-f9db-11e5-80f0-f70fb89fff2c.png)
+![untitled-1](https://cloud.githubusercontent.com/assets/1193966/14232444/c431895c-f9de-11e5-8aaa-e5f2a645bfda.png)
 
 
 ## 安装
