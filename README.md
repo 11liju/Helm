@@ -16,8 +16,9 @@ Helm
 
 ##捐助我
 
-![apnlxqzedw13dlp5da](https://cloud.githubusercontent.com/assets/1193966/14232399/50ac57ce-f9dd-11e5-834b-33c48cb06010.png)
-
+![helm-pay](https://cloud.githubusercontent.com/assets/1193966/14282551/7595099c-fb71-11e5-8431-467d7067ea09.png)
 
 支付宝扫码转账，您的绵薄之力将是我继续开发的动力
+
+
 
