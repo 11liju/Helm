@@ -1,16 +1,18 @@
-![helm-logo](https://cloud.githubusercontent.com/assets/1193966/14232427/259645da-f9de-11e5-9b96-ffa702d68615.png)
+Helm
 -----------------
 
 帮助您管理hosts文件，在不同的开发环境中切换自如
 
-![untitled-1](https://cloud.githubusercontent.com/assets/1193966/14232444/c431895c-f9de-11e5-8aaa-e5f2a645bfda.png)
+![helm-store](https://cloud.githubusercontent.com/assets/1193966/14281832/f8ce6938-fb6d-11e5-85c5-3b45a30f2656.png)
 
 
 ## 安装
 
-* 在App Store搜索`Helm`
+在<a href="https://github.com/stormtea123/Helm/releases/">下载地址</a>选择你需要的版本
 
-查看Helm在App Store中的网页地址
+## 视频教程
+
+<a href="http://v.qq.com/boke/page/r/0/f/r0191rubu5f.html">Helm视频教程</a>
 
 ##捐助我
 
