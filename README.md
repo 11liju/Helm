@@ -8,11 +8,11 @@ Helm
 
 ## 安装
 
-<a href="https://github.com/stormtea123/Helm/releases/download/1.0/Helm.dmg">下载地址</a>
+在<a href="https://github.com/stormtea123/Helm/releases/download/1.0/Helm.dmg">下载地址</a>选择你需要的版本
 
-## 视频教程
+## 视频
 
-<a href="http://v.qq.com/boke/page/r/0/f/r0191rubu5f.html">Helm视频教程</a>
+<a href="http://v.qq.com/boke/page/r/0/f/r0191rubu5f.html">高清无码</a>
 
 ##捐助我
 
